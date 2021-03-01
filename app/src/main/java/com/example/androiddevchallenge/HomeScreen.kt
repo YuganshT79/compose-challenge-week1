@@ -93,7 +93,6 @@ fun HomeScreen(navController: NavController) {
                         navController.navigate("details_screen/${it.name}")
                     }
                 }
-
             }
         }
     }
